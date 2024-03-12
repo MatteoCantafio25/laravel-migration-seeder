@@ -3,5 +3,5 @@
 @section('title', 'Laravel Migration Seeder Factory')
 
 @section('main-content')
-    <main></main>
+    @include('includes.main')
 @endsection
